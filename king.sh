@@ -428,7 +428,7 @@ rm /root/*
 clear
 echo "Autoscript by StarkDevTeam"
 echo "Credits to all that needs to credited."
-echo Downliad Link: http://$IP/noload.zip
+echo Downliad Link: http://$IP/openvpn-config.zip
 echo
 echo Rebooting...
 reboot 
