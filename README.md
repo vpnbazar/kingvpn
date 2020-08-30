@@ -1,1 +1,1 @@
-# regina
+# kingvpn autoscript
