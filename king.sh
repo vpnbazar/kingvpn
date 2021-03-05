@@ -2,10 +2,10 @@
 #
 clear
 IP=$(wget -qO- ipv4.icanhazip.com)
-DBHOST='185.61.137.168'
-DBUSER='tymlexvp_king'
+DBHOST='144.91.103.33'
+DBUSER='dailybux_tymlex'
 DBPASS='nmrbd446424'
-DBNAME='tymlexvp_king'
+DBNAME='dailybux_tymlex'
 
 
 apt-get clean
